@@ -33,3 +33,5 @@ This console application simulates caring for a virtual pet. It allows users to 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
+## Link to the video
+https://youtu.be/jp9C18Xmr9M
