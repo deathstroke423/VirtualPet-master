@@ -1,0 +1,15 @@
+D:\Repositories\VirtualPet\VirtualPet\bin\Debug\net8.0\VirtualPet.exe
+D:\Repositories\VirtualPet\VirtualPet\bin\Debug\net8.0\VirtualPet.deps.json
+D:\Repositories\VirtualPet\VirtualPet\bin\Debug\net8.0\VirtualPet.runtimeconfig.json
+D:\Repositories\VirtualPet\VirtualPet\bin\Debug\net8.0\VirtualPet.dll
+D:\Repositories\VirtualPet\VirtualPet\bin\Debug\net8.0\VirtualPet.pdb
+D:\Repositories\VirtualPet\VirtualPet\obj\Debug\net8.0\VirtualPet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\VirtualPet\VirtualPet\obj\Debug\net8.0\VirtualPet.AssemblyInfoInputs.cache
+D:\Repositories\VirtualPet\VirtualPet\obj\Debug\net8.0\VirtualPet.AssemblyInfo.cs
+D:\Repositories\VirtualPet\VirtualPet\obj\Debug\net8.0\VirtualPet.csproj.CoreCompileInputs.cache
+D:\Repositories\VirtualPet\VirtualPet\obj\Debug\net8.0\VirtualPet.sourcelink.json
+D:\Repositories\VirtualPet\VirtualPet\obj\Debug\net8.0\VirtualPet.dll
+D:\Repositories\VirtualPet\VirtualPet\obj\Debug\net8.0\refint\VirtualPet.dll
+D:\Repositories\VirtualPet\VirtualPet\obj\Debug\net8.0\VirtualPet.pdb
+D:\Repositories\VirtualPet\VirtualPet\obj\Debug\net8.0\VirtualPet.genruntimeconfig.cache
+D:\Repositories\VirtualPet\VirtualPet\obj\Debug\net8.0\ref\VirtualPet.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYB9K3V4JYmj3ZSTMfKTeNvMQAAgR6F6HS1nIvD05lmPIg3bRGpWnHJXqESugPW5CNLisnrJyzx39NAhNAM8nQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repositories\\VirtualPet\\VirtualPet\\VirtualPet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.build.tasks.git\\8.0.0\\microsoft.build.tasks.git.8.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.sourcelink.common\\8.0.0\\microsoft.sourcelink.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.sourcelink.github\\8.0.0\\microsoft.sourcelink.github.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
